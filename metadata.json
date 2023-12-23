@@ -3,6 +3,6 @@
   "description": "system76-power wrapper for gnome 44+",
   "uuid": "sys76power@ilingu.io",
   "version": 1,
-  "url": "https://github.com/Ilingu/sys76gtk4power",
+  "url": "https://github.com/Ilingu/sys76power-gnome-extension",
   "shell-version": ["45"]
 }
