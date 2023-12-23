@@ -1,0 +1,8 @@
+{
+  "name": "sys76power",
+  "description": "system76-power wrapper for gnome 44+",
+  "uuid": "sys76power@ilingu.io",
+  "version": 1,
+  "url": "https://github.com/Ilingu/sys76gtk4power",
+  "shell-version": ["45"]
+}
