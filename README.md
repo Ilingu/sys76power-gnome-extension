@@ -8,7 +8,7 @@ I have a system76 laptop. I do not use PopOS. Thus I installed the `system76-pow
 
 ## Installation
 
-> Needless to say that this gnome extension require the `system76-power` **CLI** daemon to be installed and
+> Needless to say that this gnome extension require the `system76-power` **CLI** daemon to be installed and that you need a system76 hardware for the CLI to work
 
 > On **fedora** you can do this (don't know if it's work the same way on other distro, normally yes since it's a gnome related thing but you never know)
 
